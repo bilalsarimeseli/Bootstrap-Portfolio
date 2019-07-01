@@ -1,0 +1,38 @@
+
+body {
+    background-image: url(lilypads.png);
+}
+
+#bilal {
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+#AboutMe {
+    border-bottom: 2px solid gray;
+}
+
+footer {
+    border: 2px solid black;
+    background-color: dimgray;
+    border-top: 8px solid cadetblue;
+}
+
+img {
+    margin-left: 5px;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+ hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eeeeee;
+}
+
