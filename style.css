@@ -11,6 +11,7 @@ body {
 
 h1 {
     color: cadetblue;
+    text-align: center;
 }
 
 #AboutMe {
@@ -44,6 +45,11 @@ h2 {
     font-family:fantasy;
 }
 
+h3 {
+    color: white;
+    font-family:fantasy;
+}
+
 .btn-primary {
     background-color: cadetblue;
 }
@@ -62,7 +68,7 @@ h2 {
 
 }
 
-h3 {
+h4 {
     text-align: center;
     color: white;
 }
