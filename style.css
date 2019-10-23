@@ -1,6 +1,7 @@
 
 body {
     background-image: url(lilypads.png);
+    
 }
 
 #bilal {
@@ -75,4 +76,9 @@ h4 {
 
 .container {
     margin-bottom: 50px;
+}
+
+#introduction {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
